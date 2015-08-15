@@ -1,0 +1,41 @@
+C:\Users\dani\Dropbox\courses\C sharp\11_WCF\chat-duplex\WcfChatClient\WcfChatClient\bin\Debug\WcfChatClient.exe.config
+C:\Users\dani\Dropbox\courses\C sharp\11_WCF\chat-duplex\WcfChatClient\WcfChatClient\bin\Debug\WcfChatClient.exe
+C:\Users\dani\Dropbox\courses\C sharp\11_WCF\chat-duplex\WcfChatClient\WcfChatClient\bin\Debug\WcfChatClient.pdb
+C:\Users\dani\Dropbox\courses\C sharp\11_WCF\chat-duplex\WcfChatClient\WcfChatClient\obj\Debug\WcfChatClient.csprojResolveAssemblyReference.cache
+C:\Users\dani\Dropbox\courses\C sharp\11_WCF\chat-duplex\WcfChatClient\WcfChatClient\obj\Debug\WcfChatClient.FormClient.resources
+C:\Users\dani\Dropbox\courses\C sharp\11_WCF\chat-duplex\WcfChatClient\WcfChatClient\obj\Debug\WcfChatClient.Properties.Resources.resources
+C:\Users\dani\Dropbox\courses\C sharp\11_WCF\chat-duplex\WcfChatClient\WcfChatClient\obj\Debug\WcfChatClient.csproj.GenerateResource.Cache
+C:\Users\dani\Dropbox\courses\C sharp\11_WCF\chat-duplex\WcfChatClient\WcfChatClient\obj\Debug\WcfChatClient.exe
+C:\Users\dani\Dropbox\courses\C sharp\11_WCF\chat-duplex\WcfChatClient\WcfChatClient\obj\Debug\WcfChatClient.pdb
+C:\Users\dani\Dropbox\courses\C sharp\11_WCF\chat-duplex\WcfChatClient\WcfChatClient\obj\Debug\WcfChatClient.FormLogin.resources
+C:\Users\dani\Dropbox\courses\C sharp\11_WCF\chat-duplex\WcfChatClient - Start\WcfChatClient\bin\Debug\WcfChatClient.exe.config
+C:\Users\dani\Dropbox\courses\C sharp\11_WCF\chat-duplex\WcfChatClient - Start\WcfChatClient\obj\Debug\WcfChatClient.exe
+C:\Users\dani\Dropbox\courses\C sharp\11_WCF\chat-duplex\WcfChatClient - Start\WcfChatClient\obj\Debug\WcfChatClient.pdb
+C:\Users\dannykot\Desktop\WcfChatClient - Start\WcfChatClient\bin\Debug\WcfChatClient.exe.config
+C:\Users\dannykot\Desktop\WcfChatClient - Start\WcfChatClient\obj\Debug\WcfChatClient.exe
+C:\Users\dannykot\Desktop\WcfChatClient - Start\WcfChatClient\obj\Debug\WcfChatClient.pdb
+C:\Users\dannykot\Desktop\WcfChatClient - Start\WcfChatClient\bin\Debug\WcfChatClient.exe
+C:\Users\dannykot\Desktop\WcfChatClient - Start\WcfChatClient\bin\Debug\WcfChatClient.pdb
+C:\Users\dannykot\Desktop\WcfChatClient - Start\WcfChatClient\obj\Debug\WcfChatClient.csprojResolveAssemblyReference.cache
+C:\Users\dannykot\Desktop\WcfChatClient - Start\WcfChatClient\obj\Debug\WcfChatClient.FormClient.resources
+C:\Users\dannykot\Desktop\WcfChatClient - Start\WcfChatClient\obj\Debug\WcfChatClient.FormLogin.resources
+C:\Users\dannykot\Desktop\WcfChatClient - Start\WcfChatClient\obj\Debug\WcfChatClient.Properties.Resources.resources
+C:\Users\dannykot\Desktop\WcfChatClient - Start\WcfChatClient\obj\Debug\WcfChatClient.csproj.GenerateResource.Cache
+C:\Users\dannykot\Desktop\WcfChatClient - Start\WcfChatClient\bin\Debug\WcfChatClient.exe.manifest
+C:\Users\dannykot\Desktop\WcfChatClient - Start\WcfChatClient\bin\Debug\WcfChatClient.application
+C:\Users\dannykot\Desktop\WcfChatClient - Start\WcfChatClient\obj\Debug\WcfChatClient.exe.manifest
+C:\Users\dannykot\Desktop\WcfChatClient - Start\WcfChatClient\obj\Debug\WcfChatClient.application
+C:\Users\user\Downloads\School Work\CSharp\chat class exercise\chat class exercise\WcfChatClient\WcfChatClient\bin\Debug\WcfChatClient.exe.config
+C:\Users\user\Downloads\School Work\CSharp\chat class exercise\chat class exercise\WcfChatClient\WcfChatClient\obj\Debug\WcfChatClient.exe
+C:\Users\user\Downloads\School Work\CSharp\chat class exercise\chat class exercise\WcfChatClient\WcfChatClient\obj\Debug\WcfChatClient.pdb
+C:\Users\user\Downloads\School Work\CSharp\chat class exercise\chat class exercise\WcfChatClient\WcfChatClient\bin\Debug\WcfChatClient.exe.manifest
+C:\Users\user\Downloads\School Work\CSharp\chat class exercise\chat class exercise\WcfChatClient\WcfChatClient\bin\Debug\WcfChatClient.application
+C:\Users\user\Downloads\School Work\CSharp\chat class exercise\chat class exercise\WcfChatClient\WcfChatClient\bin\Debug\WcfChatClient.exe
+C:\Users\user\Downloads\School Work\CSharp\chat class exercise\chat class exercise\WcfChatClient\WcfChatClient\bin\Debug\WcfChatClient.pdb
+C:\Users\user\Downloads\School Work\CSharp\chat class exercise\chat class exercise\WcfChatClient\WcfChatClient\obj\Debug\WcfChatClient.csprojResolveAssemblyReference.cache
+C:\Users\user\Downloads\School Work\CSharp\chat class exercise\chat class exercise\WcfChatClient\WcfChatClient\obj\Debug\WcfChatClient.FormClient.resources
+C:\Users\user\Downloads\School Work\CSharp\chat class exercise\chat class exercise\WcfChatClient\WcfChatClient\obj\Debug\WcfChatClient.FormLogin.resources
+C:\Users\user\Downloads\School Work\CSharp\chat class exercise\chat class exercise\WcfChatClient\WcfChatClient\obj\Debug\WcfChatClient.Properties.Resources.resources
+C:\Users\user\Downloads\School Work\CSharp\chat class exercise\chat class exercise\WcfChatClient\WcfChatClient\obj\Debug\WcfChatClient.csproj.GenerateResource.Cache
+C:\Users\user\Downloads\School Work\CSharp\chat class exercise\chat class exercise\WcfChatClient\WcfChatClient\obj\Debug\WcfChatClient.exe.manifest
+C:\Users\user\Downloads\School Work\CSharp\chat class exercise\chat class exercise\WcfChatClient\WcfChatClient\obj\Debug\WcfChatClient.application

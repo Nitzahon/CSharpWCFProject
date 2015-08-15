@@ -1,0 +1,6 @@
+C:\Users\dannykot\Desktop\WcfChatServer\WcfChatServer\bin\Debug\WcfChatServer.dll.config
+C:\Users\dannykot\Desktop\WcfChatServer\WcfChatServer\bin\Debug\WcfChatServer.dll
+C:\Users\dannykot\Desktop\WcfChatServer\WcfChatServer\bin\Debug\WcfChatServer.pdb
+C:\Users\dannykot\Desktop\WcfChatServer\WcfChatServer\obj\Debug\WcfChatServer.csprojResolveAssemblyReference.cache
+C:\Users\dannykot\Desktop\WcfChatServer\WcfChatServer\obj\Debug\WcfChatServer.dll
+C:\Users\dannykot\Desktop\WcfChatServer\WcfChatServer\obj\Debug\WcfChatServer.pdb
