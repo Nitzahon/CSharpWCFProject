@@ -14,6 +14,7 @@ namespace WcfChatServer
     {
         public void DoWork()
         {
+            int x = 1;
         }
     }
 }
