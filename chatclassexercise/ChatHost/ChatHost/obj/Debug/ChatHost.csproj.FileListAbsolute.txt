@@ -17,3 +17,6 @@ C:\Users\user\Downloads\School Work\CSharp\chat class exercise\chat class exerci
 C:\Users\user\Downloads\School Work\CSharp\chat class exercise\chat class exercise\ChatHost\ChatHost\obj\Debug\ChatHost.ChatHostForm.resources
 C:\Users\user\Downloads\School Work\CSharp\chat class exercise\chat class exercise\ChatHost\ChatHost\obj\Debug\ChatHost.Properties.Resources.resources
 C:\Users\user\Downloads\School Work\CSharp\chat class exercise\chat class exercise\ChatHost\ChatHost\obj\Debug\ChatHost.csproj.GenerateResource.Cache
+C:\Users\user\Downloads\School Work\CSharp\chat class exercise\CSharpWCFProject\chatclassexercise\ChatHost\ChatHost\bin\Debug\ChatHost.exe.config
+C:\Users\user\Downloads\School Work\CSharp\chat class exercise\CSharpWCFProject\chatclassexercise\ChatHost\ChatHost\obj\Debug\ChatHost.exe
+C:\Users\user\Downloads\School Work\CSharp\chat class exercise\CSharpWCFProject\chatclassexercise\ChatHost\ChatHost\obj\Debug\ChatHost.pdb

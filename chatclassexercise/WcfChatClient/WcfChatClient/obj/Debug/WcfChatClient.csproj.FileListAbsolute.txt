@@ -39,3 +39,6 @@ C:\Users\user\Downloads\School Work\CSharp\chat class exercise\chat class exerci
 C:\Users\user\Downloads\School Work\CSharp\chat class exercise\chat class exercise\WcfChatClient\WcfChatClient\obj\Debug\WcfChatClient.csproj.GenerateResource.Cache
 C:\Users\user\Downloads\School Work\CSharp\chat class exercise\chat class exercise\WcfChatClient\WcfChatClient\obj\Debug\WcfChatClient.exe.manifest
 C:\Users\user\Downloads\School Work\CSharp\chat class exercise\chat class exercise\WcfChatClient\WcfChatClient\obj\Debug\WcfChatClient.application
+C:\Users\user\Downloads\School Work\CSharp\chat class exercise\CSharpWCFProject\chatclassexercise\WcfChatClient\WcfChatClient\bin\Debug\WcfChatClient.exe.config
+C:\Users\user\Downloads\School Work\CSharp\chat class exercise\CSharpWCFProject\chatclassexercise\WcfChatClient\WcfChatClient\obj\Debug\WcfChatClient.exe
+C:\Users\user\Downloads\School Work\CSharp\chat class exercise\CSharpWCFProject\chatclassexercise\WcfChatClient\WcfChatClient\obj\Debug\WcfChatClient.pdb
